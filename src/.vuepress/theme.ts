@@ -11,7 +11,7 @@ export default hopeTheme({
     url: "https://ekopedia.id",
   },
 
-  logo: "/logo.png",
+  logo: "/logo.webp",
 
   docsDir: "src",
 
@@ -86,5 +86,10 @@ export default hopeTheme({
     icon: {
       prefix: "fa6-solid:",
     },
+
+    pwa: {
+      shouldPrefetch: false,
+      cacheImage: true
+    }
   },
 });

@@ -3,11 +3,12 @@ home: true
 layout: HomeLayout
 icon: house
 title: Home
-heroImage: /logo.png
+heroImage: /logo.webp
+heroAlt: Ekopedia logo
 heroText: Ekopedia
 tagline: Your Ideas, My Code, Infinite Possibilities
-bgImage: /assets/images/hero-bg.jpg
-bgImageDark: /assets/images/hero-bg-dark.jpg
+bgImage: /assets/images/hero-bg.webp
+bgImageDark: /assets/images/hero-bg-dark.webp
 heroFullScreen: true
 projects:
   - icon: https://splitbill.ekopedia.id/favicon.ico

@@ -10,18 +10,18 @@ category:
 works:
   - name: Lightweight ERP For Retail
     desc: A lightweight ERP for retail with many branches in Surabaya
-    url: /projects/erp
+    url: /projects/erp.html
     preview: /assets/images/erp-1.png
 
   - name: Project Management System
     desc: Project Management System of Construction Company
-    url: /projects/management
+    url: /projects/management.html
     preview: /assets/images/management-1.png
 
 freelances:
   - name: Finance System
     desc: A finance system for a college in Lumajang
-    url: /projects/finance
+    url: /projects/finance.html
     preview: /assets/images/finance-1.png
 
 personals:

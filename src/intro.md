@@ -1,5 +1,5 @@
 ---
-cover: /assets/images/post/me.jpg
+cover: /assets/images/post/me.webp
 icon: user-tie
 date: 2025-06-25
 ---

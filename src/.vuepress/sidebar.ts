@@ -1,4 +1,4 @@
-import { sidebar } from "vuepress-theme-hope";
+import { catalog, sidebar } from "vuepress-theme-hope";
 
 export default sidebar({
   '/experience/': [
@@ -23,4 +23,10 @@ export default sidebar({
       link: "https://movi.ekopedia.id",
     },
   ],
+  '/dev notes/': [
+    '',
+    'laravel-rails',
+    'searchkick',
+    'delegate'
+  ]
 });

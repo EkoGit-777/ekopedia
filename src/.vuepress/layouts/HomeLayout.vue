@@ -23,7 +23,7 @@ import { Blog } from "vuepress-theme-hope/blog"
           <VPIcon icon="user-tie" color="black" />
           About Me
         </a>
-        <a class="route-link auto-link vp-hero-action secondary no-external-link-icon" href="/assets/cv.pdf" download="cv-eko-sutrisno-adiguna.pdf" aria-label="My Resume">
+        <a class="route-link auto-link vp-hero-action secondary no-external-link-icon" href="/assets/documents/cv.pdf" download="cv-eko-sutrisno-adiguna.pdf" aria-label="My Resume">
           <VPIcon icon="file-pdf" color="white" />
           My Resume
         </a>
@@ -37,7 +37,7 @@ import { Blog } from "vuepress-theme-hope/blog"
           <div class="vp-features">
             <div class="vp-feature-item">
               <div class="feature-title-wrapper">
-                <img class="vp-card-logo" src="/assets/icon/code.png" loading="lazy" no-view="">
+                <img class="vp-card-logo" src="/assets/icon/code.webp" aria-label="code-icon" loading="lazy" no-view="">
                 <div class="feature-title">
                   <div class="vp-feature-title">Web Development</div>
                   <div style="font-weight: bolder;">Custom websites and full-stack solutions tailored to your business needs</div>
@@ -49,7 +49,7 @@ import { Blog } from "vuepress-theme-hope/blog"
             </div>
             <div class="vp-feature-item">
               <div class="feature-title-wrapper">
-                <img class="vp-card-logo" src="/assets/icon/brain.png" loading="lazy" no-view="">
+                <img class="vp-card-logo" src="/assets/icon/brain.webp" aria-label="brain-icon" loading="lazy" no-view="">
                 <div class="feature-title">
                   <div class="vp-feature-title">Strategic & Consulting</div>
                   <div style="font-weight: bolder;">Helping you make the right tech decisions</div>
@@ -61,7 +61,7 @@ import { Blog } from "vuepress-theme-hope/blog"
             </div>
             <div class="vp-feature-item">
               <div class="feature-title-wrapper">
-                <img class="vp-card-logo" src="/assets/icon/owl.png" loading="lazy" no-view="">
+                <img class="vp-card-logo" src="/assets/icon/owl.webp" aria-label="owl-icon" loading="lazy" no-view="">
                 <div class="feature-title">
                   <div class="vp-feature-title">Mentoring / Coaching</div>
                   <div style="font-weight: bolder;">Grow your skills with real-world guidance</div>

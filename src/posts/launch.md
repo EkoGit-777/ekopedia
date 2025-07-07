@@ -1,8 +1,10 @@
 ---
-cover: /assets/images/post/sunrise.jpg
-icon: user-tie
+cover: /assets/images/post/sunrise.webp
+icon: book-bookmark
 date: 2025-06-25
 star: true
+category:
+- Diary
 sticky: true
 ---
 
