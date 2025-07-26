@@ -1,4 +1,5 @@
 ---
+description: A lightweight ERP project that I did when I work at Gradin.
 icon: cash-register
 order: 1
 timeline: false
@@ -20,8 +21,8 @@ One of the biggest project I did in Gradin. A lightweight ERP for retail with ma
 
 ### Screenshot
 
-![Dashboard](/assets/images/erp-1.png)
+![Dashboard](/assets/images/project/erp/erp-1.webp)
 
-![Product](/assets/images/erp-2.png)
+![Product](/assets/images/project/erp/erp-2.webp)
 
-![Stockopname](/assets/images/erp-3.png)
+![Stockopname](/assets/images/project/erp/erp-3.webp)

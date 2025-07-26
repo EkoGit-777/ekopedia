@@ -1,6 +1,7 @@
 ---
+description: My working experience at Gradin.
 icon: building
-cover: /assets/images/gradin.jpg
+cover: /assets/images/experience/gradin/gradin.webp
 order: 2
 timeline: false
 article: false

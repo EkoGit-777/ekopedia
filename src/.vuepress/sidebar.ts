@@ -27,6 +27,8 @@ export default sidebar({
     '',
     'laravel-rails',
     'searchkick',
-    'delegate'
+    'delegate',
+    'percent-cheat-sheet',
+    'ampersand-colon',
   ]
 });

@@ -3,6 +3,7 @@ home: true
 layout: HomeLayout
 icon: house
 title: Home
+description: Ekopedia offers Web Development, Strategic & Consulting, also Mentoring / Coaching.
 heroImage: /logo.webp
 heroAlt: Ekopedia logo
 heroText: Ekopedia

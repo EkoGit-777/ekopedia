@@ -2,6 +2,7 @@
 home: true
 portfolio: true
 title: About Me
+description: Short introduction about Eko Sutrisno Adiguna.
 icon: user-tie
 name: Eko Sutrisno Adiguna
 avatar: /assets/images/avatar.png

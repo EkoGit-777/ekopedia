@@ -1,4 +1,5 @@
 ---
+description: Finance system porject for university that I did as freelancer.
 icon: money-bill-wave
 order: 3
 timeline: false
@@ -20,8 +21,8 @@ This is a project I worked on while freelancing. A finance system for a college 
 
 ### Screenshot
 
-![Dashboard](/assets/images/finance-1.png)
+![Dashboard](/assets/images/project/finance/finance-1.webp)
 
-![COA](/assets/images/finance-2.png)
+![COA](/assets/images/project/finance/finance-2.webp)
 
-![Journal Report](/assets/images/finance-3.png)
+![Journal Report](/assets/images/project/finance/finance-3.webp)

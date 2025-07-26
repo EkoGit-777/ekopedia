@@ -1,7 +1,9 @@
 ---
-cover: /assets/images/post/delegation.webp
+description: The explanation of delegate in Ruby
+cover: /assets/images/dev note/delegation.webp
 icon: code
 date: 2025-07-07
+star: true
 category:
 - Dev Note
 tag:
@@ -16,18 +18,18 @@ In this article, we’ll explore how `delegate` works, when to use it, and how t
 
 ---
 
-## 🧠 What is `delegate`?
+## :brain: What is `delegate`?
 
 The `delegate` method is provided by Rails and is used to forward method calls to an associated object.
 
-### 🔧 Basic Syntax
+### :wrench: Basic Syntax
 
 ```ruby
 delegate :method_name, to: :target_object
 ```
 This creates a method in the current class that internally calls the given method on the associated object.
 
-### 📘 Simple Example
+### :blue_book: Simple Example
 Let’s say we have two classes: Author and Book.
 
 ```ruby
@@ -52,7 +54,7 @@ book.name  # => "Haruki Murakami"
 ```
 The book object doesn’t have its own name method. Instead, it delegates the name call to its author.
 
-## 🛡️ Avoiding Naming Conflicts with prefix
+## :shield: Avoiding Naming Conflicts with prefix
 What if Book also had its own name method for the title? That would conflict with delegate :name, to: :author.
 
 That’s where the prefix: option comes in.
@@ -73,7 +75,7 @@ delegate :name, to: :author, prefix: :writer
 
 book.writer_name  # => "Haruki Murakami"
 ```
-### ❗ Handling Nil Associations with allow_nil
+### :exclamation: Handling Nil Associations with allow_nil
 If your association might be nil, you can prevent Rails from raising an error:
 
 ```ruby
@@ -81,7 +83,7 @@ delegate :name, to: :author, prefix: true, allow_nil: true
 ```
 Now, if book.author is nil, calling book.author_name will simply return nil instead of crashing.
 
-### ✅ Real-World Example: A Field with a Dictionary
+### :white_check_mark: Real-World Example: A Field with a Dictionary
 Here’s a practical example you might see in a Rails model:
 
 ```ruby
@@ -101,7 +103,7 @@ field.dictionary_field&.label
 ```
 Much cleaner, right?
 
-## 📌 Summary
+## :pushpin: Summary
 Here’s a quick reference table for delegate options:
 
 | Option        | Purpose                                             |

@@ -1,4 +1,5 @@
 ---
+description: A project management system that I did when I work at Gradin.
 icon: list-check
 order: 2
 timeline: false
@@ -11,7 +12,7 @@ category:
 
 ## Description
 
-Anothe project I did in Gradin. Project Management System of Construction Company with features managing projects, tasks, reminders, decisions, and record of transfers
+Another project I did in Gradin. Project Management System of Construction Company with features managing projects, tasks, reminders, decisions, and record of transfers
 
 ## Tech Stack
 
@@ -20,10 +21,10 @@ Anothe project I did in Gradin. Project Management System of Construction Compan
 
 ### Screenshot
 
-![Dashboard](/assets/images/management-1.png)
+![Dashboard](/assets/images/project/management/management-1.webp)
 
-![Project List](/assets/images/management-2.png)
+![Project List](/assets/images/project/management/management-2.webp)
 
-![Project Detail](/assets/images/management-3.png)
+![Project Detail](/assets/images/project/management/management-3.webp)
 
-![Task Detail](/assets/images/management-4.png)
+![Task Detail](/assets/images/project/management/management-4.webp)

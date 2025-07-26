@@ -1,7 +1,9 @@
 ---
-cover: /assets/images/post/laravel-rails.webp
+description: Mental map guide for Laravel developer who starts to learn Ruby on Rails.
+cover: /assets/images/dev note/laravel-rails.webp
 icon: code
 date: 2025-07-03
+star: true
 category:
 - Dev Note
 tag:
@@ -15,7 +17,7 @@ If you're a Laravel developer starting to work with Ruby on Rails, this guide gi
 
 ---
 
-## 🧩 1. Models & Relationships
+## :jigsaw: 1. Models & Relationships
 
 | Concept           | Laravel                                | Rails                              |
 |------------------|-----------------------------------------|------------------------------------|
@@ -28,7 +30,7 @@ If you're a Laravel developer starting to work with Ruby on Rails, this guide gi
 
 ---
 
-## 🧩 2. Factories & Seeders
+## :jigsaw: 2. Factories & Seeders
 
 | Concept           | Laravel                                | Rails (FactoryBot + Faker)        |
 |------------------|-----------------------------------------|------------------------------------|
@@ -40,7 +42,7 @@ If you're a Laravel developer starting to work with Ruby on Rails, this guide gi
 
 ---
 
-## 🧩 3. Migrations
+## :jigsaw: 3. Migrations
 
 | Concept           | Laravel                                | Rails                              |
 |------------------|-----------------------------------------|------------------------------------|
@@ -51,7 +53,7 @@ If you're a Laravel developer starting to work with Ruby on Rails, this guide gi
 
 ---
 
-## 🧩 4. Routing
+## :jigsaw: 4. Routing
 
 | Concept           | Laravel                                | Rails                              |
 |------------------|-----------------------------------------|------------------------------------|
@@ -62,7 +64,7 @@ If you're a Laravel developer starting to work with Ruby on Rails, this guide gi
 
 ---
 
-## 🧩 5. Controllers
+## :jigsaw: 5. Controllers
 
 | Concept           | Laravel                                | Rails                              |
 |------------------|-----------------------------------------|------------------------------------|
@@ -73,7 +75,7 @@ If you're a Laravel developer starting to work with Ruby on Rails, this guide gi
 
 ---
 
-## 🧩 6. Testing
+## :jigsaw: 6. Testing
 
 | Concept           | Laravel                                | Rails (RSpec + FactoryBot)        |
 |------------------|-----------------------------------------|------------------------------------|
@@ -84,7 +86,7 @@ If you're a Laravel developer starting to work with Ruby on Rails, this guide gi
 
 ---
 
-## 🧩 7. CLI Tools
+## :jigsaw: 7. CLI Tools
 
 | Action             | Laravel CLI               | Rails CLI                   |
 |--------------------|---------------------------|-----------------------------|
@@ -97,7 +99,7 @@ If you're a Laravel developer starting to work with Ruby on Rails, this guide gi
 
 ---
 
-## 🧩 8. Querying & ActiveRecord
+## :jigsaw: 8. Querying & ActiveRecord
 
 | Concept           | Laravel (Eloquent)                   | Rails (ActiveRecord)              |
 |------------------|----------------------------------------|----------------------------------|
@@ -109,7 +111,7 @@ If you're a Laravel developer starting to work with Ruby on Rails, this guide gi
 
 ---
 
-## 🧪 Bonus: Testing Tips in Rails
+## :test_tube: Bonus: Testing Tips in Rails
 
 - Use `Faker` to avoid test pollution (especially for emails and usernames)
 - Use `create_list(:factory, count)` to create multiple associated records
@@ -120,3 +122,4 @@ If you're a Laravel developer starting to work with Ruby on Rails, this guide gi
       role { 'support' }
     end
   end
+  ```

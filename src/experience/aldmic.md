@@ -1,6 +1,7 @@
 ---
+description: My working experience at Aldmic Indonesia.
 icon: building
-cover: /assets/images/aldmic.jpeg
+cover: /assets/images/experience/aldmic/aldmic.webp
 order: 3
 timeline: false
 article: false

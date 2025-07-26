@@ -1,9 +1,6 @@
 ---
 title: Working Experience
-index: false
-timeline: false
-article: false
-icon: building
+description: List of my working experience.
 category:
   - Working Experience
 ---

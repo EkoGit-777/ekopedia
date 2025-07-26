@@ -1,14 +1,16 @@
 ---
-# cover: /assets/images/post/laravel-rails.webp
+title: Searchkick in Rails
+description: The explanation of Searchkick and it's usage in Rails
 icon: code
 date: 2025-07-04
+star: true
 category:
 - Dev Note
 tag:
 - Rails
 ---
 
-# 🔍 What Is Searchkick and How It's Used in Rails Projects
+# :mag: What Is Searchkick and How It's Used in Rails Projects
 
 ## What Is Searchkick?
 
@@ -20,7 +22,7 @@ Think of it as a powerful search engine built into your Rails app — much more 
 
 ## What Can Searchkick Do?
 
-### ✅ 1. Full-Text Search
+### :white_check_mark: 1. Full-Text Search
 
 Search across models easily:
 
@@ -30,7 +32,7 @@ Product.search("apple")
 
 It can match against multiple fields (like name, description, tags), and rank results by relevance — just like Google.
 
-### ✅ 2. Autocomplete / Suggestions
+### :white_check_mark: 2. Autocomplete / Suggestions
 You can build autocomplete features:
 
 ```ruby
@@ -38,7 +40,7 @@ Product.search("app", suggest: true)
 ```
 Searchkick indexes data in a way that supports fast, intelligent completion.
 
-### ✅ 3. Filtering, Facets, Pagination
+### :white_check_mark: 3. Filtering, Facets, Pagination
 You can filter search results:
 
 ```ruby
@@ -46,7 +48,7 @@ Product.search("apple", where: { brand: "Apple", in_stock: true }, page: 2)
 ```
 And even get breakdowns for categories, tags, etc. (called facets).
 
-## ⚙️ How It Works Under the Hood
+## :gear: How It Works Under the Hood
 When you define searchkick in a model:
 
 ```ruby
@@ -60,7 +62,7 @@ When you call .reindex, Searchkick pushes that data into the ES server.
 
 Later, calling .search(...) doesn’t query the database — it queries Elasticsearch.
 
-## 🧪 Why It's a Problem in Tests
+## :test_tube: Why It's a Problem in Tests
 Because indexing data during every test slows things down and requires Elasticsearch to be running.
 
 That’s why we often use:
@@ -77,7 +79,7 @@ allow(Model).to receive(:reindex).and_return(true)
 ```
 → to stub manual indexing
 
-## 🔧 In Your Project
+## :wrench: In Your Project
 From your test error, we saw this code:
 
 ```ruby
@@ -91,12 +93,12 @@ When a related model (like Form::AutofillRule) updates, it triggers a manual rei
 
 The reindex pushes the updated data to Elasticsearch so that search results stay fresh
 
-## ✅ Summary
+## :white_check_mark: Summary
 
-| Feature                     | Description                                           |
-|-----------------------------|-------------------------------------------------------|
-| 🔍 Full-text search         | Fast and relevant keyword-based searches              |
-| ⚡ Autocomplete & fuzzy     | Great for UX with suggestive matching                 |
-| 🛠 Backed by Elasticsearch  | Fast, scalable, modern search engine                  |
-| 🔁 Reindexing               | Keeps the search index synced with the database       |
-| 🧪 Easily stubbed in tests  | Prevent test crashes with `disable_callbacks` or mocks |
+| Feature                                      | Description                                           |
+|----------------------------------------------|-------------------------------------------------------|
+| :mag: Full-text search                       | Fast and relevant keyword-based searches              |
+| :zap: Autocomplete & fuzzy                   | Great for UX with suggestive matching                 |
+| :hammer_and_wrench: Backed by Elasticsearch  | Fast, scalable, modern search engine                  |
+| :repeat: Reindexing                          | Keeps the search index synced with the database       |
+| :test_tube: Easily stubbed in tests          | Prevent test crashes with `disable_callbacks` or mocks |

@@ -1,11 +1,10 @@
 ---
+description: The day of this website launched.
 cover: /assets/images/post/sunrise.webp
 icon: book-bookmark
 date: 2025-06-25
-star: true
 category:
 - Diary
-sticky: true
 ---
 
 # My personal portfolio web is done! :tada:

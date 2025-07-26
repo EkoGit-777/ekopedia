@@ -88,7 +88,6 @@ export default hopeTheme({
     },
 
     pwa: {
-      shouldPrefetch: false,
       cacheImage: true
     }
   },
