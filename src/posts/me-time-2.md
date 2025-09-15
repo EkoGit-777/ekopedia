@@ -5,7 +5,6 @@ icon: book-bookmark
 date: 2025-07-26
 category:
 - Diary
-sticky: true
 ---
 
 # Me Time! Another Movie Marathon. :popcorn:

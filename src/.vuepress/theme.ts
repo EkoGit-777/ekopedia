@@ -31,6 +31,7 @@ export default hopeTheme({
     description: "A Full-Stack Developer",
     intro: "/about/",
     medias: {
+      Instagram: "https://www.instagram.com/meta.ekopedia?igsh=MXRsNmh2eXJyYmZ3bw==",
       GitHub: "https://github.com/EkoGit-777",
       Gmail: "mailto:eko.sutrisno.adiguna@gmail.com",
       Linkedin: "https://www.linkedin.com/in/eko-adiguna-7a550a176/",
