@@ -21,13 +21,7 @@ The Exit 8 is an indie game where you are trapped in an endless underground pass
 
 The Exit 8 is a short walking simulator inspired by Japanese underground passageways, liminal spaces and back rooms. The game is only available in Japanese and English, but if you understand the above description of the anomaly, you can probably play it all the way through. You can buy the game in [Steam](https://store.steampowered.com/app/2653790/The_Exit_8/)
 
-<iframe 
-  src="https://movi.ekopedia.id/preview/tt35222590" 
-  width="800" 
-  height="320" 
-  frameborder="0"
-  style="border-radius: 12px;"
-></iframe>
+<EmbedContainer movieId="tt35222590" />
 
 What makes The Exit 8 is one of the best adaptation, there are several reasons of it.
 
@@ -44,3 +38,7 @@ I personally haven't played the game yet, but I have watched the gameplay in You
 On previous point I mention that not only the anomaly reference, but also the gameplay reference is successfully transformed into the movie. It makes you as the audience, can experience as the main character in the gamee. Especially the first person shoot at the beginning of the movie. Because in the game you can play in first person shooter camera angle.
 
 Even though there are many positive things about this movie, this movie is still not perfect.There are some flaws the move have such as repetitive scene that can make it little bit boring (the game itself  is also like that). And also in the beginning part where the main character still doesn'e aware about the loop, he is repeating in number zero for several times. I don't know if all of it have anomaly or not, but I'm sure at least 1 or 2 that has no anomaly in it. So he should be at least reach number one even though he have to repeat to number zero after that.
+
+<script setup>
+import EmbedContainer from "@EmbedContainer";
+</script>

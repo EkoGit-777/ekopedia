@@ -12,6 +12,9 @@ export default defineUserConfig({
   head: [
     ['script', {src: "https://analytics.ahrefs.com/analytics.js", 'data-key':"v97A0ssUGDkZSGAEHM1AIw", async: true}]
   ],
+  alias: {
+    "@EmbedContainer": path.resolve(__dirname, "components/EmbedContainer.vue"),
+  },
 
   theme,
 
