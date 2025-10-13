@@ -28,16 +28,21 @@ freelances:
 personals:
   - name: DividEkopedia
     desc: A splitbill web-app
-    url: https://splitbill.ekopedia.id
+    url: /projects/dividekopedia
     logo: https://splitbill.ekopedia.id/favicon.ico
     repo: https://github.com/EkoGit-777/dividekopedia
     preview: /assets/images/project/dividekopedia.webp
   - name: MoviEkopedia
     desc: A movie catalouge
-    url: https://movi.ekopedia.id
+    url: /projects/moviekopedia
     logo: https://movi.ekopedia.id/favicon.ico
     repo: https://github.com/EkoGit-777/moviekopedia
     preview: /assets/images/project/moviekopedia.webp
+  - name: AideEkopedia
+    desc: AI Chatbot
+    url: /projects/aideekopedia
+    logo: https://aide.ekopedia.id/favicon.ico
+    preview: /assets/images/project/aideekopedia.webp
 
 ---
 

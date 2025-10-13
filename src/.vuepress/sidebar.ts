@@ -15,12 +15,17 @@ export default sidebar({
     {
       text: "DividEkopedia",
       icon: "https://splitbill.ekopedia.id/favicon.ico",
-      link: "https://splitbill.ekopedia.id",
+      link: "/projects/dividekopedia",
     },
     {
       text: "MoviEkopedia",
       icon: "https://movi.ekopedia.id/favicon.ico",
-      link: "https://movi.ekopedia.id",
+      link: "/projects/moviekopedia",
+    },
+    {
+      text: "AideEkopedia",
+      icon: "https://aide.ekopedia.id/favicon.ico",
+      link: "/projects/aideekopedia",
     },
   ],
   '/dev notes/': [

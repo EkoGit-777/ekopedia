@@ -22,4 +22,9 @@ projects:
     desc: Movie catalouge
     link: https://movi.ekopedia.id
 
+  - icon: https://aide.ekopedia.id/favicon.ico
+    name: AideEkopedia
+    desc: AI Chatbot
+    link: https://aide.ekopedia.id
+
 ---

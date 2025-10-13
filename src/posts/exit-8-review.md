@@ -5,7 +5,7 @@ icon: book-bookmark
 date: 2025-09-14
 category:
 - Diary
-sticky: true
+- Me Time
 ---
 
 # One of The Best Live Adaptaion Movie of Game
