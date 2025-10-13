@@ -1,6 +1,7 @@
 ---
 description: My review of Superman movie.
 cover: /assets/images/post/superman-2025.webp
+layout: DiaryLayout
 icon: book-bookmark
 date: 2025-07-13
 category:

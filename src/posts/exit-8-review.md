@@ -1,6 +1,7 @@
 ---
 description: My review of "Exit 8", one of the best live adaptation movie of game.
 cover: /assets/images/post/exit-8.webp
+layout: DiaryLayout
 icon: book-bookmark
 date: 2025-09-14
 category:

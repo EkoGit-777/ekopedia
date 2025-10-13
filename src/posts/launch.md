@@ -1,6 +1,7 @@
 ---
 description: The day of this website launched.
 cover: /assets/images/post/sunrise.webp
+layout: DiaryLayout
 icon: book-bookmark
 date: 2025-06-25
 category:

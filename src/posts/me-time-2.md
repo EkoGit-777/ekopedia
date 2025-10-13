@@ -1,6 +1,7 @@
 ---
 description: My review of "The Fantastic Four - First Step" and "Omniscient Reader - The Prophet" movie.
 cover: /assets/images/post/fantastic-4.webp
+layout: DiaryLayout
 icon: book-bookmark
 date: 2025-07-26
 category:

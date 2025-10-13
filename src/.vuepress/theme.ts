@@ -81,7 +81,12 @@ export default hopeTheme({
     blog: true,
 
     components: {
-      components: ['ArtPlayer', "Badge", "VPCard", 'SiteInfo'],
+      components: ['ArtPlayer', "Badge", "VPCard", 'Share', 'SiteInfo'],
+      componentOptions: {
+        share: {
+          services: ['facebook', 'linkedin', 'twitter', 'whatsapp']
+        }
+      }
     },
 
     icon: {

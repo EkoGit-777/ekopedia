@@ -1,6 +1,7 @@
 ---
 description: My first day working remotely.
 cover: https://www.simplilearn.com/ice9/free_resources_article_thumb/Front_End_Developer_Job_Description.jpg
+layout: DiaryLayout
 icon: book-bookmark
 date: 2025-07-03
 category:

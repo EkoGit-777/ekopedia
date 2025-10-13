@@ -2,6 +2,7 @@
 description: "It was both nerve-wracking and exciting — my first time being interviewed directly by foreign recruiters from Semaphore Consulting. Here’s what I learned from stepping into a global interview experience as a developer."
 title: "Nervous but Excited — My First Interview with Foreign Recruiters"
 cover: https://images.pexels.com/photos/5668863/pexels-photo-5668863.jpeg
+layout: DiaryLayout
 icon: book-bookmark
 date: 2025-10-13
 category:

@@ -2,6 +2,7 @@
 description: How I Built My Own Chatbot (and What I Learned Along the Way).
 title: Building My Own AI Chatbot
 cover: /assets/images/project/aideekopedia.webp
+layout: DiaryLayout
 icon: book-bookmark
 date: 2025-10-07
 category:
