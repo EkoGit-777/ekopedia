@@ -1,5 +1,5 @@
 ---
-description: Finance system porject for university that I did as freelancer.
+description: Proyek sistem keuangan untuk perguruan tinggi yang saya kerjakan sebagai freelancer.
 icon: money-bill-wave
 order: 3
 timeline: false
@@ -8,11 +8,11 @@ category:
   - Project
 ---
 
-# Finance System
+# Sistem Keuangan
 
-## Description
+## Deskripsi
 
-This is a project I worked on while freelancing. A finance system for a college in Lumajang. It’s integrated with Moota API and Bank Jatim API for getting list of bank statements.
+Ini adalah proyek yang saya kerjakan saat bekerja lepas. Sistem keuangan untuk sebuah perguruan tinggi di Lumajang. Sistem ini terintegrasi dengan Moota API dan Bank Jatim API untuk mendapatkan daftar laporan bank.
 
 ## Tech Stack
 

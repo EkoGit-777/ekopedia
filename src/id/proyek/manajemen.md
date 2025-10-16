@@ -1,5 +1,5 @@
 ---
-description: A project management system that I did when I work at Gradin.
+description: Sebuah sistem manajemen proyek yang saya kerjakan ketika bekerja di Gradin.
 icon: list-check
 order: 2
 timeline: false
@@ -8,11 +8,11 @@ category:
   - Project
 ---
 
-# Project Management System
+# Sistem Manajemen Proyek
 
-## Description
+## Deskripsi
 
-Another project I did in Gradin. Project Management System of Construction Company with features managing projects, tasks, reminders, decisions, and record of transfers.
+Proyek lain yang saya kerjakan di Gradin. Sistem Manajemen Proyek Perusahaan Konstruksi dengan fitur pengelolaan proyek, tugas, pengingat, keputusan, dan catatan transfer.
 
 ## Tech Stack
 

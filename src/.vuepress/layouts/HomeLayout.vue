@@ -1,5 +1,8 @@
 <script setup lang="ts">
 import { Blog } from "vuepress-theme-hope/blog"
+import { useLanguageStore } from "../stores/language";
+
+const languageStore = useLanguageStore()
 </script>
 
 <template>
@@ -21,54 +24,54 @@ import { Blog } from "vuepress-theme-hope/blog"
           href="/about/"
           aria-label="About Me">
           <VPIcon icon="user-tie" color="black" />
-          About Me
+          {{languageStore.getViewText('layout', 'about')}}
         </a>
         <a class="route-link auto-link vp-hero-action secondary no-external-link-icon" href="/assets/documents/cv.pdf" download="cv-eko-sutrisno-adiguna.pdf" aria-label="My Resume">
           <VPIcon icon="file-pdf" color="white" />
-          My Resume
+          {{languageStore.getViewText('layout', 'resume')}}
         </a>
       </div>
     </template>
 
     <template #heroAfter>
       <div class="feature-wrapper">
-        <h2 style="font-weight: bold;">What I Offer</h2>
+        <h2 style="font-weight: bold;">{{languageStore.getViewText('layout', 'offer')}}</h2>
         <div class="vp-feature">
           <div class="vp-features">
             <div class="vp-feature-item">
               <div class="feature-title-wrapper">
                 <img class="vp-card-logo" src="/assets/icon/code.webp" aria-label="code-icon" loading="lazy" no-view="">
                 <div class="feature-title">
-                  <div class="vp-feature-title">Web Development</div>
-                  <div style="font-weight: bolder;">Custom websites and full-stack solutions tailored to your business needs</div>
+                  <div class="vp-feature-title">{{languageStore.getViewText('layout', 'offer1title')}}</div>
+                  <div style="font-weight: bolder;">{{languageStore.getViewText('layout', 'offer1short')}}</div>
                 </div>
               </div>
               <div class="vp-feature-details">
-                I specialize in building robust, scalable web applications using Laravel and Vue.js — from admin panels to high-performance APIs and dynamic front-ends.
+                {{languageStore.getViewText('layout', 'offer1long')}}
               </div>
             </div>
             <div class="vp-feature-item">
               <div class="feature-title-wrapper">
                 <img class="vp-card-logo" src="/assets/icon/brain.webp" aria-label="brain-icon" loading="lazy" no-view="">
                 <div class="feature-title">
-                  <div class="vp-feature-title">Strategic & Consulting</div>
-                  <div style="font-weight: bolder;">Helping you make the right tech decisions</div>
+                  <div class="vp-feature-title">{{languageStore.getViewText('layout', 'offer2title')}}</div>
+                  <div style="font-weight: bolder;">{{languageStore.getViewText('layout', 'offer2short')}}</div>
                 </div>
               </div>
               <div class="vp-feature-details">
-                With over 8 years in the industry, I provide guidance on architecture, tech stack selection, project planning, and performance optimization to align your tech with your business goals.
+                {{languageStore.getViewText('layout', 'offer2long')}}
               </div>
             </div>
             <div class="vp-feature-item">
               <div class="feature-title-wrapper">
                 <img class="vp-card-logo" src="/assets/icon/owl.webp" aria-label="owl-icon" loading="lazy" no-view="">
                 <div class="feature-title">
-                  <div class="vp-feature-title">Mentoring / Coaching</div>
-                  <div style="font-weight: bolder;">Grow your skills with real-world guidance</div>
+                  <div class="vp-feature-title">{{languageStore.getViewText('layout', 'offer3title')}}</div>
+                  <div style="font-weight: bolder;">{{languageStore.getViewText('layout', 'offer3short')}}</div>
                 </div>
               </div>
               <div class="vp-feature-details">
-                Whether you're a junior developer or a team looking to level up, I offer mentoring on Laravel, Vue.js, clean code practices, and career growth in the tech industry.
+                {{languageStore.getViewText('layout', 'offer3long')}}
               </div>
             </div>
           </div>

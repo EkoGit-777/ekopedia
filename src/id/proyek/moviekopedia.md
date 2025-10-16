@@ -1,5 +1,5 @@
 ---
-description: Application for discovering detailed information about movies.
+description: Aplikasi untuk menemukan informasi terperinci tentang film.
 icon: https://movi.ekopedia.id/favicon.ico
 cover: /assets/images/project/moviekopedia.webp
 order: 1
@@ -11,9 +11,9 @@ category:
 
 # MoviEkopedia
 
-## Description
+## Deskripsi
 
-**MoviEkopedia** is a modern web application for discovering detailed information about movies — including plot, cast, director, genre, and more. It’s part of the **Ekopedia Ecosystem**.
+**MoviEkopedia** adalah aplikasi web modern untuk menemukan informasi terperinci tentang film — termasuk plot, pemeran, sutradara, genre, dan banyak lagi. Ini adalah bagian dari **Ekosistem Ekopedia**.
 
 ## Tech Stack
 

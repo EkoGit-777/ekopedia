@@ -15,7 +15,7 @@ category:
 
 Gradin is a digital agency based in Surabaya who believes creativity and technology are now inseparable. With their expertise in visual branding combined with extensive knowledge about the web, they would like to help you navigate this digital age to grow to their clients true potential.
 
-They began their journey in 2010, and then established themselves with the name GRADIN in 2014. We’ve worked with clients from various fields such as industry, food, fashion, etc. Their diversity in clients’ backgrounds and services give us a fresh perspective when faced with new challenges.
+They began their journey in 2010, and then established themselves with the name GRADIN in 2014. They’ve worked with clients from various fields such as industry, food, fashion, etc. Their diversity in clients’ backgrounds and services give them a fresh perspective when faced with new challenges.
 
 They value their relationship with their clients. Their clients growth as a brand reflects their team’s growth, and vice versa. They believe their clients growth and their own are inseparable.
 

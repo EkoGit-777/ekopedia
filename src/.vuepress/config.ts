@@ -1,14 +1,20 @@
-import { defineUserConfig } from "vuepress";
-import { path } from "vuepress/utils";
-
-import theme from "./theme.js";
+import { defineUserConfig } from "vuepress"
+import { path } from "vuepress/utils"
+import theme from "./theme.js"
 
 export default defineUserConfig({
-  base: "/",
-
-  lang: "en-US",
-  title: "Ekopedia",
-  description: "A portofolio page of Eko Sutrisno Adiguna",
+  locales: {
+    '/': {
+      lang: 'en-US',
+      title: 'Ekopedia',
+      description: 'A portofolio and blog website of Eko Sutrisno Adiguna',
+    },
+    '/id/': {
+      lang: 'id-ID',
+      title: 'Ekopedia',
+      description: 'Sebuah website portfolio dan blog dari Eko Sutrisno Adiguna',
+    },
+  },
   head: [
     ['script', {src: "https://analytics.ahrefs.com/analytics.js", 'data-key':"v97A0ssUGDkZSGAEHM1AIw", async: true}]
   ],
@@ -21,5 +27,5 @@ export default defineUserConfig({
   // Enable it with pwa
   // shouldPrefetch: false,
   clientConfigFile: path.resolve(__dirname, "./client.ts"),
-  shouldPrefetch: false
+  shouldPrefetch: false,
 });

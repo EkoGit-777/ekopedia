@@ -1,7 +1,5 @@
-import { hopeTheme } from "vuepress-theme-hope";
-
-import navbar from "./navbar.js";
-import sidebar from "./sidebar.js";
+import { hopeTheme } from "vuepress-theme-hope"
+import sidebar from "./sidebar.js"
 
 export default hopeTheme({
   hostname: "https://ekopedia.id",
@@ -15,21 +13,70 @@ export default hopeTheme({
 
   docsDir: "src",
 
-  // navbar
-  navbar,
-
-  // sidebar
-  sidebar,
-
-  footer: "MIT Licensed | Copyright © 2025-present Eko Sutrisno Adiguna",
-
-  displayFooter: true,
-  copyright: false,
-
+  locales: {
+    '/': {
+      navbar: [
+        "/",
+        "/about/",
+        "/experience/",
+        "/projects/",
+        '/dev notes/',
+        {
+          text: "Classes",
+          icon: "school",
+          prefix: "/classes/",
+          children: [
+            {
+              text: "Basic Programming",
+              icon: "laptop",
+              link: "https://www.superprof.co.id/programmer-mengajarkan-pemrograman-dasar-untuk-web-dan-desktop-untuk-siswa-smp-hingga-mahasiswa-dan-sederajat-surabaya-dan.html",
+            },
+            {
+              text: "Web Developing",
+              icon: "laptop-code",
+              link: "https://www.superprof.co.id/seorang-web-developer-mengajarkan-bahasa-pemrograman-berbasis-web-menggunakan-framework-laravel-dan-vuejs-surabaya-dan-sekitarnya.html",
+            },
+          ]
+        },
+      ],
+      blog: {
+        description: "A Full-Stack Developer",
+        intro: "/about/",
+      },
+    },
+    '/id/': {
+      navbar: [
+        "/id/",
+        "/id/perihal/",
+        "/id/pengalaman/",
+        "/id/proyek/",
+        '/id/catatan dev/',
+        {
+          text: "Kelas",
+          icon: "school",
+          prefix: "/classes/",
+          children: [
+            {
+              text: "Dasar Pemrograman",
+              icon: "laptop",
+              link: "https://www.superprof.co.id/programmer-mengajarkan-pemrograman-dasar-untuk-web-dan-desktop-untuk-siswa-smp-hingga-mahasiswa-dan-sederajat-surabaya-dan.html",
+            },
+            {
+              text: "Pengembangan Web",
+              icon: "laptop-code",
+              link: "https://www.superprof.co.id/seorang-web-developer-mengajarkan-bahasa-pemrograman-berbasis-web-menggunakan-framework-laravel-dan-vuejs-surabaya-dan-sekitarnya.html",
+            },
+          ]
+        },
+      ],
+      blog: {
+        description: "Seorang Full-Stack Developer",
+        intro: "/id/perihal/",
+      },
+    },
+  },
 
   blog: {
-    description: "A Full-Stack Developer",
-    intro: "/about/",
     medias: {
       Instagram: "https://www.instagram.com/meta.ekopedia?igsh=MXRsNmh2eXJyYmZ3bw==",
       GitHub: "https://github.com/EkoGit-777",
@@ -42,7 +89,13 @@ export default hopeTheme({
     },
   },
 
-  // These features are enabled for demo, only preserve features you need here
+  sidebar,
+
+  footer: "MIT Licensed | Copyright © 2025-present Eko Sutrisno Adiguna",
+
+  displayFooter: true,
+  copyright: false,
+
   markdown: {
     align: true,
     attrs: true,
@@ -95,6 +148,17 @@ export default hopeTheme({
 
     pwa: {
       cacheImage: true
+    },
+
+    comment: {
+      provider: 'Giscus',
+      repo: 'EkoGit-777/ekopedia',
+      repoId: 'R_kgDOPBi4zw',
+      category: 'General',
+      categoryId: 'DIC_kwDOPBi4z84Cwtjx',
+      mapping: 'pathname',
+      strict: false,
+      reactionsEnabled: true,
     }
   },
 });

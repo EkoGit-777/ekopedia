@@ -1,7 +1,7 @@
 ---
 cover: /assets/images/dev note/dev note.webp
 title: Dev Notes
-description: Dev Note is section for collection of note in journey learning programming language
+description: Dev Note a section for a collection of journey notes in learning programming languages
 icon: code
 index: false
 timeline: false

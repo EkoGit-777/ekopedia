@@ -13,7 +13,7 @@ category:
 
 ## About
 
-Nusaraya (Nusantara Baskara Jaya) is an IT builder company, they love to tackle world class problem with our unique approach in computer vision, mobile technology, media, cloud system, telecommunication and public service.
+Nusaraya (Nusantara Baskara Jaya) is an IT builder company, they love to tackle world class problem with their unique approach in computer vision, mobile technology, media, cloud system, telecommunication and public service.
 
 ## Timeline
 
@@ -22,7 +22,7 @@ Nusaraya (Nusantara Baskara Jaya) is an IT builder company, they love to tackle 
 ## My Contributions
 
 - Shafira
-This was my first project there. I built web-based mobile app using AngularJS and PhoneGap
+This was my first project there. I built web-based mobile app using AngularJS and PhoneGap.
 - Aji Mumpung
 Aji Mumpung was a reward based mobile app. I helped developing lock screen for the app and handle user issue. It was built using java as frontend android native and Laravel as backend.
 - Eilhamzah

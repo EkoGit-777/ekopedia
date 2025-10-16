@@ -1,5 +1,5 @@
 ---
-description: Application for splitting bill.
+description: Aplikasi untuk membagi tagihan.
 icon: https://splitbill.ekopedia.id/favicon.ico
 cover: /assets/images/project/dividekopedia.webp
 order: 1
@@ -11,9 +11,9 @@ category:
 
 # DividEkopedia
 
-## Description
+## Deskripsi
 
-**DividEkopedia** is a modern web application for splitting bill with many people. It’s part of the **Ekopedia Ecosystem**.
+**DividEkopedia** adalah aplikasi web modern untuk membagi tagihan dengan banyak orang. Ini adalah bagian dari **Ekosistem Ekopedia**.
 
 ## Tech Stack
 
