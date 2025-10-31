@@ -7,8 +7,8 @@ icon: book-bookmark
 date: 2025-10-13
 category:
 - Diary
+tag:
 - Career
-sticky: true
 ---
 
 I never thought I’d get the chance to be interviewed directly by foreign recruiters. But today, it finally happened — and it turned out to be one of the most nerve-wracking yet exciting experiences of my career.

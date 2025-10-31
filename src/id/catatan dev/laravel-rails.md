@@ -13,7 +13,7 @@ tag:
 
 # Laravel ↔ Rails Mental Map for Developers
 
-If you're a Laravel developer starting to work with Ruby on Rails, this guide gives you a side-by-side reference to bridge the gap quickly — especially around factories, relationships, migrations, and testing.
+Jika kamu seorang pengembang Laravel yang mulai bekerja dengan Ruby on Rails, panduan ini memberi kamu referensi berdampingan untuk menjembatani kesenjangan dengan cepat — terutama di sekitar pabrik, hubungan, migrasi, dan pengujian.
 
 ---
 
@@ -111,11 +111,11 @@ If you're a Laravel developer starting to work with Ruby on Rails, this guide gi
 
 ---
 
-## :test_tube: Bonus: Testing Tips in Rails
+## :test_tube: Bonus: Tip Pengujian dalam Rails
 
-- Use `Faker` to avoid test pollution (especially for emails and usernames)
-- Use `create_list(:factory, count)` to create multiple associated records
-- Use `trait` to define role-specific user variations:
+- Gunakan `Faker` untuk menghindari polusi pengujian (terutama untuk email dan nama pengguna)
+- Gunakan `create_list(:factory, count)` untuk membuat beberapa rekaman terkait
+- Gunakan `trait` untuk menentukan variasi pengguna yang spesifik peran:
   ```ruby
   factory :user do
     trait :support do

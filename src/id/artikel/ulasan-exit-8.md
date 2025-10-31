@@ -1,11 +1,12 @@
 ---
-description: Ulasan saya tentang "Exit 8", salah satu film adaptasi terbaik dari game.
+description: Ulasanku tentang "Exit 8", salah satu film adaptasi terbaik dari game.
 cover: /assets/images/post/exit-8.webp
 layout: DiaryLayout
 icon: book-bookmark
 date: 2025-09-14
 category:
 - Diary
+tag:
 - Me Time
 ---
 
@@ -32,13 +33,13 @@ Game ini sendiri tidak memiliki cerita sama sekali. Namun, dalam filmnya, terdap
 
 ## Referensi
 
-Saya pribadi belum memainkan game ini, tetapi saya telah menonton gameplay-nya di YouTube. Saya tidak tahu seberapa akurat anomali tersebut dibandingkan dengan game-nya. Namun, saya mengetahuinya dari gameplay yang saya tonton sebelumnya. Tidak hanya tentang referensi anomali, tetapi juga gameplay-nya sendiri. Sutradara telah berhasil mengubah gameplay menjadi game. Jika Anda memainkan gim ini, mungkin Anda hanya ingin menyelesaikannya sesegera mungkin. Ketika menyadari adanya anomali, Anda akan segera kembali. Namun terkadang, ada beberapa pemain yang memiliki rasa ingin tahu yang lebih besar. Mencoba memeriksa anomali tersebut dengan saksama. Dan mungkin bahkan menunggu kejutannya. Itulah yang juga dilakukan oleh tokoh utama dalam film. Selain itu, ada beberapa poin di mana tokoh utama melewatkan anomali tersebut dan harus mengulanginya lagi dari awal.
+Aku pribadi belum memainkan game ini, tetapi aku telah menonton gameplay-nya di YouTube. Aku tidak tahu seberapa akurat anomali tersebut dibandingkan dengan game-nya. Namun, aku mengetahuinya dari gameplay yang kutonton sebelumnya. Tidak hanya tentang referensi anomali, tetapi juga gameplay-nya sendiri. Sutradara telah berhasil mengubah gameplay menjadi game. Jika Anda memainkan gim ini, mungkin Anda hanya ingin menyelesaikannya sesegera mungkin. Ketika menyadari adanya anomali, Anda akan segera kembali. Namun terkadang, ada beberapa pemain yang memiliki rasa ingin tahu yang lebih besar. Mencoba memeriksa anomali tersebut dengan saksama. Dan mungkin bahkan menunggu kejutannya. Itulah yang juga dilakukan oleh tokoh utama dalam film. Selain itu, ada beberapa poin di mana tokoh utama melewatkan anomali tersebut dan harus mengulanginya lagi dari awal.
 
 ## Pengalaman
 
-Pada poin sebelumnya, saya menyebutkan bahwa tidak hanya referensi anomali, tetapi juga referensi gameplay berhasil diubah ke dalam film. Hal ini membuat Anda sebagai penonton, dapat merasakan pengalaman sebagai tokoh utama dalam gim. Terutama pengambilan gambar orang pertama di awal film. Karena dalam gim ini Anda dapat bermain dalam sudut pandang first-person shooter.
+Pada poin sebelumnya, aku menyebutkan bahwa tidak hanya referensi anomali, tetapi juga referensi gameplay berhasil diubah ke dalam film. Hal ini membuat Anda sebagai penonton, dapat merasakan pengalaman sebagai tokoh utama dalam gim. Terutama pengambilan gambar orang pertama di awal film. Karena dalam gim ini Anda dapat bermain dalam sudut pandang first-person shooter.
 
-Meskipun ada banyak hal positif tentang film ini, film ini masih belum sempurna. Ada beberapa kekurangan dalam film ini, seperti adegan yang berulang-ulang yang dapat membuatnya sedikit membosankan (gimnya sendiri juga seperti itu). Dan juga di bagian awal, di mana karakter utama masih belum menyadari adanya loop, ia mengulang dari angka nol beberapa kali. Saya tidak tahu apakah semuanya anomali atau tidak, tetapi saya yakin setidaknya 1 atau 2 yang tidak memiliki anomali. Jadi, setidaknya ia seharusnya mencapai angka satu meskipun harus mengulang ke angka nol setelahnya.
+Meskipun ada banyak hal positif tentang film ini, film ini masih belum sempurna. Ada beberapa kekurangan dalam film ini, seperti adegan yang berulang-ulang yang dapat membuatnya sedikit membosankan (gimnya sendiri juga seperti itu). Dan juga di bagian awal, di mana karakter utama masih belum menyadari adanya loop, ia mengulang dari angka nol beberapa kali. Aku tidak tahu apakah semuanya anomali atau tidak, tetapi aku yakin setidaknya 1 atau 2 yang tidak memiliki anomali. Jadi, setidaknya ia seharusnya mencapai angka satu meskipun harus mengulang ke angka nol setelahnya.
 
 <script setup>
 import EmbedContainer from "@EmbedContainer";

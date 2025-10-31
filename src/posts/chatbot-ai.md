@@ -7,6 +7,7 @@ icon: book-bookmark
 date: 2025-10-07
 category:
 - Diary
+tag:
 - Career
 ---
 
