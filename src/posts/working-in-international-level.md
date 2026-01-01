@@ -9,7 +9,6 @@ category:
 - Diary
 tag:
 - Career
-sticky: true
 ---
 
 After I passed the interview I shared in my previous post, I finally started my first week with a foreign company.  

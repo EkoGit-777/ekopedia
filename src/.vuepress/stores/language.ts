@@ -40,7 +40,7 @@ export const useLanguageStore = defineStore('Language', {
         'offer3title': 'Bimbingan / Pelatihan',
         'offer3short': 'Tingkatkan keterampilan Anda dengan bimbingan nyata',
         'offer3long': "Baik Anda seorang pengembang junior atau tim yang ingin meningkatkan kemampuan, saya menawarkan bimbingan tentang Laravel, Vue.js, praktik kode bersih, dan pertumbuhan karier di industri teknologi.",
-        'share': 'Share',
+        'share': 'bagikan',
       },
     },
   }),
