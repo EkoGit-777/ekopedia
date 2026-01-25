@@ -8,7 +8,6 @@ category:
 - Diary
 tag:
 - Me Time
-sticky: true
 ---
 
 # Long Holiday Equals to Movie Marathon! :popcorn:

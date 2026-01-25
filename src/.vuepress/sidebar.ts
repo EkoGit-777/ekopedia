@@ -36,6 +36,7 @@ export default sidebar({
     'delegate',
     'percent-cheat-sheet',
     'ampersand-colon',
+    'device-pixel-ratio',
   ],
   
   // id sidebar
@@ -73,5 +74,6 @@ export default sidebar({
     'delegate',
     'percent-cheat-sheet',
     'ampersand-colon',
+    'device-pixel-ratio',
   ],
 });

@@ -3,7 +3,7 @@ home: true
 layout: HomeLayout
 icon: house
 title: Home
-description: Ekopedia offers Web Development, Strategic & Consulting, also Mentoring / Coaching.
+description: Ekopedia is the personal site of a senior Laravel & Vue.js developer offering web development, consulting, and mentoring — from scalable APIs to modern front-ends.
 heroImage: /logo.webp
 heroAlt: Ekopedia logo
 heroText: Ekopedia

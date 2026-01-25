@@ -9,7 +9,6 @@ category:
 - Diary
 tag:
 - Career
-sticky: true
 ---
 
 Setelah lulus wawancara yang kubagikan di postingan sebelumnya, aku akhirnya memulai minggu pertamaku di perusahaan asing.
