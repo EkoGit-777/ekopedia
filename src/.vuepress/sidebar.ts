@@ -37,6 +37,7 @@ export default sidebar({
     'percent-cheat-sheet',
     'ampersand-colon',
     'device-pixel-ratio',
+    'forbidden-wordpress-parameter',
   ],
   
   // id sidebar
