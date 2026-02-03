@@ -38,6 +38,7 @@ export default sidebar({
     'ampersand-colon',
     'device-pixel-ratio',
     'forbidden-wordpress-parameter',
+    'import-csv-with-bom'
   ],
   
   // id sidebar

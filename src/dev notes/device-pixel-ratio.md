@@ -6,8 +6,7 @@ date: 2026-01-23
 star: true
 category:
 - Dev Note
-tag:
-- CSS
+tag: [Web Development, CSS]
 ---
 
 # Understanding Device Pixel Ratio (DPR) in Web Development
