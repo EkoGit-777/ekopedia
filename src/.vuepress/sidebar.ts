@@ -39,7 +39,8 @@ export default sidebar({
     'device-pixel-ratio',
     'forbidden-wordpress-parameter',
     'import-csv-with-bom',
-    'exceptions-vs-error-responses'
+    'exceptions-vs-error-responses',
+    'same-problem-different-status'
   ],
   
   // id sidebar
@@ -78,5 +79,9 @@ export default sidebar({
     'percent-cheat-sheet',
     'ampersand-colon',
     'device-pixel-ratio',
+    'forbidden-wordpress-parameter',
+    'import-csv-with-bom',
+    'exceptions-vs-error-responses',
+    'same-problem-different-status'
   ],
 });
