@@ -16,7 +16,17 @@ export default defineUserConfig({
     },
   },
   head: [
-    ['script', {src: "https://analytics.ahrefs.com/analytics.js", 'data-key':"v97A0ssUGDkZSGAEHM1AIw", async: true}]
+    // ahrefs analytics
+    ['script', {src: "https://analytics.ahrefs.com/analytics.js", 'data-key':"v97A0ssUGDkZSGAEHM1AIw", async: true}],
+
+    // Google Analytics
+    ['script', {src: "https://www.googletagmanager.com/gtag/js?id=G-SGZHM91HEW", async: true}],
+    ['script', {}, `
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-SGZHM91HEW');
+    `]
   ],
   alias: {
     "@EmbedContainer": path.resolve(__dirname, "components/EmbedContainer.vue"),

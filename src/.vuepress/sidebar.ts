@@ -40,7 +40,8 @@ export default sidebar({
     'forbidden-wordpress-parameter',
     'import-csv-with-bom',
     'exceptions-vs-error-responses',
-    'same-problem-different-status'
+    'same-problem-different-status',
+    'git-diff'
   ],
   
   // id sidebar
@@ -82,6 +83,7 @@ export default sidebar({
     'forbidden-wordpress-parameter',
     'import-csv-with-bom',
     'exceptions-vs-error-responses',
-    'same-problem-different-status'
+    'same-problem-different-status',
+    'git-diff'
   ],
 });
