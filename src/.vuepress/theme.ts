@@ -47,10 +47,10 @@ export default hopeTheme({
     '/id/': {
       navbar: [
         "/id/",
-        "/id/perihal/",
-        "/id/pengalaman/",
-        "/id/proyek/",
-        '/id/catatan dev/',
+        "/id/about/",
+        "/id/experience/",
+        "/id/projects/",
+        '/id/dev notes/',
         {
           text: "Kelas",
           icon: "school",
@@ -71,7 +71,7 @@ export default hopeTheme({
       ],
       blog: {
         description: "Seorang Full-Stack Developer",
-        intro: "/id/perihal/",
+        intro: "/id/about/",
       },
     },
   },

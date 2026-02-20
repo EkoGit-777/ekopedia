@@ -45,34 +45,34 @@ export default sidebar({
   ],
   
   // id sidebar
-  '/id/pengalaman/': [
+  '/id/experience/': [
     '',
     'nusaraya',
     'gradin',
     'aldmic',
   ],
-  '/id/proyek/': [
+  '/id/projects/': [
     '',
     'erp',
-    'manajemen',
-    'keuangan',
+    'management',
+    'finance',
     {
       text: "DividEkopedia",
       icon: "https://splitbill.ekopedia.id/favicon.ico",
-      link: "/id/proyek/dividekopedia",
+      link: "/id/projects/dividekopedia",
     },
     {
       text: "MoviEkopedia",
       icon: "https://movi.ekopedia.id/favicon.ico",
-      link: "/id/proyek/moviekopedia",
+      link: "/id/projects/moviekopedia",
     },
     {
       text: "AideEkopedia",
       icon: "https://aide.ekopedia.id/favicon.ico",
-      link: "/id/proyek/aideekopedia",
+      link: "/id/projects/aideekopedia",
     },
   ],
-  '/id/catatan dev/': [
+  '/id/dev notes/': [
     '',
     'laravel-rails',
     'searchkick',
