@@ -41,7 +41,8 @@ export default sidebar({
     'import-csv-with-bom',
     'exceptions-vs-error-responses',
     'same-problem-different-status',
-    'git-diff'
+    'git-diff',
+    'from-browser-to-native',
   ],
   
   // id sidebar
@@ -84,6 +85,7 @@ export default sidebar({
     'import-csv-with-bom',
     'exceptions-vs-error-responses',
     'same-problem-different-status',
-    'git-diff'
+    'git-diff',
+    'from-browser-to-native',
   ],
 });
