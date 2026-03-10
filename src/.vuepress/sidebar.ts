@@ -43,6 +43,7 @@ export default sidebar({
     'same-problem-different-status',
     'git-diff',
     'from-browser-to-native',
+    'using-temporary-table-for-import',
   ],
   
   // id sidebar
@@ -87,5 +88,6 @@ export default sidebar({
     'same-problem-different-status',
     'git-diff',
     'from-browser-to-native',
+    'using-temporary-table-for-import',
   ],
 });
