@@ -44,6 +44,7 @@ export default sidebar({
     'git-diff',
     'from-browser-to-native',
     'using-temporary-table-for-import',
+    'closure-in-public-property',
   ],
   
   // id sidebar
@@ -89,5 +90,6 @@ export default sidebar({
     'git-diff',
     'from-browser-to-native',
     'using-temporary-table-for-import',
+    'closure-in-public-property',
   ],
 });
