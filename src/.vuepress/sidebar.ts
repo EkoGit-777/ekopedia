@@ -45,6 +45,7 @@ export default sidebar({
     'from-browser-to-native',
     'using-temporary-table-for-import',
     'closure-in-public-property',
+    'inspect-print',
   ],
   
   // id sidebar
@@ -91,5 +92,6 @@ export default sidebar({
     'from-browser-to-native',
     'using-temporary-table-for-import',
     'closure-in-public-property',
+    'inspect-print',
   ],
 });
