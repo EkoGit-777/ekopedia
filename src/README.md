@@ -8,8 +8,8 @@ heroImage: /logo.webp
 heroAlt: Ekopedia logo
 heroText: Ekopedia
 tagline: Your Ideas, My Code, Infinite Possibilities
-bgImage: /assets/images/hero-bg.webp
-bgImageDark: /assets/images/hero-bg-dark.webp
+bgImage: https://cdn.ekopedia.id/images/hero-bg.webp
+bgImageDark: https://cdn.ekopedia.id/images/hero-bg-dark.webp
 heroFullScreen: true
 projects:
   - icon: https://splitbill.ekopedia.id/favicon.ico
@@ -26,5 +26,10 @@ projects:
     name: AideEkopedia
     desc: AI Chatbot
     link: https://aide.ekopedia.id
+
+  - icon: https://expir.ekopedia.id/favicon.ico
+    name: ExpirEkopedia
+    desc: Expiration Date Tracker
+    link: https://expir.ekopedia.id
 
 ---

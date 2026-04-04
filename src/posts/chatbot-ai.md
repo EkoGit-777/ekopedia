@@ -1,7 +1,7 @@
 ---
 description: How I Built My Own Chatbot (and What I Learned Along the Way).
 title: Building My Own AI Chatbot
-cover: /assets/images/project/aideekopedia.webp
+cover: https://cdn.ekopedia.id/images/project/aideekopedia.webp
 layout: DiaryLayout
 icon: book-bookmark
 date: 2025-10-07
@@ -24,8 +24,8 @@ I've already said that I want to create my own AI chatbot. But the actual reason
 As a web developer, if you imagine about how to create AI Chatbot, it seems like it's really simple. You only need 1 page where you send prompt to API, then you show the response. One of the hardest parts was making the responses appear like they were being typed in real time and also present it in good format. It felt like giving the bot a personality — not just dumping text on the screen. Luckily on project I was working on when I worked at Gradin, I have made a component to show markdown formatted text. I can just take the component and apply it on my AI Chatbot project, so that it can show readable text.
 
 <ArtPlayer
-  src="assets/videos/chatbot-demo.webm"
-  poster="assets/images/project/aideekopedia.webp"
+  src="https://cdn.ekopedia.id/videos/chatbot-demo.webm"
+  poster="https://cdn.ekopedia.id/images/project/aideekopedia.webp"
 />
 
 ## Little Wins

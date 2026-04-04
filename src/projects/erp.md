@@ -21,8 +21,8 @@ One of the biggest project I did in Gradin. A lightweight ERP for retail with ma
 
 ### Screenshot
 
-![Dashboard](/assets/images/project/erp/erp-1.webp)
+![Dashboard](https://cdn.ekopedia.id/images/project/erp/erp-1.webp)
 
-![Product](/assets/images/project/erp/erp-2.webp)
+![Product](https://cdn.ekopedia.id/images/project/erp/erp-2.webp)
 
-![Stockopname](/assets/images/project/erp/erp-3.webp)
+![Stockopname](https://cdn.ekopedia.id/images/project/erp/erp-3.webp)

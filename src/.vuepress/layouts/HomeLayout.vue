@@ -26,7 +26,7 @@ const languageStore = useLanguageStore()
           <VPIcon icon="user-tie" color="black" />
           {{languageStore.getViewText('layout', 'about')}}
         </a>
-        <a class="route-link auto-link vp-hero-action secondary no-external-link-icon" href="/assets/documents/cv.pdf" download="cv-eko-sutrisno-adiguna.pdf" aria-label="My Resume">
+        <a class="route-link auto-link vp-hero-action secondary no-external-link-icon" href="https://cdn.ekopedia.id/documents/cv.pdf" download="cv-eko-sutrisno-adiguna.pdf" aria-label="My Resume">
           <VPIcon icon="file-pdf" color="white" />
           {{languageStore.getViewText('layout', 'resume')}}
         </a>
@@ -40,7 +40,7 @@ const languageStore = useLanguageStore()
           <div class="vp-features">
             <div class="vp-feature-item">
               <div class="feature-title-wrapper">
-                <img class="vp-card-logo" src="/assets/icon/code.webp" aria-label="code-icon" loading="lazy" no-view="">
+                <img class="vp-card-logo" src="https://cdn.ekopedia.id/icons/code.webp" aria-label="code-icon" loading="lazy" no-view="">
                 <div class="feature-title">
                   <div class="vp-feature-title">{{languageStore.getViewText('layout', 'offer1title')}}</div>
                   <div style="font-weight: bolder;">{{languageStore.getViewText('layout', 'offer1short')}}</div>
@@ -52,7 +52,7 @@ const languageStore = useLanguageStore()
             </div>
             <div class="vp-feature-item">
               <div class="feature-title-wrapper">
-                <img class="vp-card-logo" src="/assets/icon/brain.webp" aria-label="brain-icon" loading="lazy" no-view="">
+                <img class="vp-card-logo" src="https://cdn.ekopedia.id/icons/brain.webp" aria-label="brain-icon" loading="lazy" no-view="">
                 <div class="feature-title">
                   <div class="vp-feature-title">{{languageStore.getViewText('layout', 'offer2title')}}</div>
                   <div style="font-weight: bolder;">{{languageStore.getViewText('layout', 'offer2short')}}</div>
@@ -64,7 +64,7 @@ const languageStore = useLanguageStore()
             </div>
             <div class="vp-feature-item">
               <div class="feature-title-wrapper">
-                <img class="vp-card-logo" src="/assets/icon/owl.webp" aria-label="owl-icon" loading="lazy" no-view="">
+                <img class="vp-card-logo" src="https://cdn.ekopedia.id/icons/owl.webp" aria-label="owl-icon" loading="lazy" no-view="">
                 <div class="feature-title">
                   <div class="vp-feature-title">{{languageStore.getViewText('layout', 'offer3title')}}</div>
                   <div style="font-weight: bolder;">{{languageStore.getViewText('layout', 'offer3short')}}</div>

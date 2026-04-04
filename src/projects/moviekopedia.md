@@ -1,7 +1,7 @@
 ---
 description: Application for discovering detailed information about movies.
 icon: https://movi.ekopedia.id/favicon.ico
-cover: /assets/images/project/moviekopedia.webp
+cover: https://cdn.ekopedia.id/images/project/moviekopedia.webp
 order: 1
 timeline: false
 article: false

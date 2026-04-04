@@ -1,7 +1,7 @@
 ---
 description: Pengalaman kerjaku di Gradin.
 icon: building
-cover: /assets/images/experience/gradin/gradin.webp
+cover: https://cdn.ekopedia.id/images/experience/gradin/gradin.webp
 order: 2
 timeline: false
 article: false

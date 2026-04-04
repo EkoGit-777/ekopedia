@@ -21,8 +21,8 @@ This is a project I worked on while freelancing. A finance system for a college 
 
 ### Screenshot
 
-![Dashboard](/assets/images/project/finance/finance-1.webp)
+![Dashboard](https://cdn.ekopedia.id/images/project/finance/finance-1.webp)
 
-![COA](/assets/images/project/finance/finance-2.webp)
+![COA](https://cdn.ekopedia.id/images/project/finance/finance-2.webp)
 
-![Journal Report](/assets/images/project/finance/finance-3.webp)
+![Journal Report](https://cdn.ekopedia.id/images/project/finance/finance-3.webp)

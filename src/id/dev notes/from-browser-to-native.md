@@ -1,6 +1,6 @@
 ---
 description: PWA vs Capacitor vs Electron vs Tauri vs Flutter — panduan lengkap yang membandingkan arsitektur, performa, ukuran aplikasi, kemampuan native, dan berbagai use case untuk membantu memilih framework terbaik untuk aplikasi web, mobile, maupun desktop.
-cover: /assets/images/dev note/frontend-frameworks.webp
+cover: https://cdn.ekopedia.id/images/dev note/frontend-frameworks.webp
 icon: code
 date: 2026-03-04
 star: true

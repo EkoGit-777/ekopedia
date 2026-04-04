@@ -1,6 +1,6 @@
 ---
 description: Status code bukan cuma angka. Di balik 404 dan 502, ada perbedaan tanggung jawab antar layer. Artikel ini membedah bagaimana Nginx dan aplikasi bereaksi berbeda terhadap request yang sama.
-cover: /assets/images/dev note/same-bug-different-status.webp
+cover: https://cdn.ekopedia.id/images/dev note/same-bug-different-status.webp
 icon: code
 date: 2026-02-09
 star: true

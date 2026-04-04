@@ -1,6 +1,6 @@
 ---
 description: Mental map guide for Laravel developer who starts to learn Ruby on Rails.
-cover: /assets/images/dev note/laravel-rails.webp
+cover: https://cdn.ekopedia.id/images/dev note/laravel-rails.webp
 icon: code
 date: 2025-07-03
 star: true

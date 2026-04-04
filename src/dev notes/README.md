@@ -1,5 +1,5 @@
 ---
-cover: /assets/images/dev note/dev note.webp
+cover: https://cdn.ekopedia.id/images/dev note/dev note.webp
 title: Dev Notes
 description: Dev Note a section for a collection of journey notes in learning programming languages
 icon: code

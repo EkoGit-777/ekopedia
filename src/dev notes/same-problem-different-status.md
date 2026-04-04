@@ -1,6 +1,6 @@
 ---
 description: Status codes are more than just numbers. Behind 404 and 502, there are different responsibilities across layers. This article breaks down how Nginx and the application react differently to the same malformed request.
-cover: /assets/images/dev note/same-bug-different-status.webp
+cover: https://cdn.ekopedia.id/images/dev note/same-bug-different-status.webp
 icon: code
 date: 2026-02-09
 star: true

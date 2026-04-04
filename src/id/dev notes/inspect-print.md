@@ -1,6 +1,6 @@
 ---
 description: Kesulitan debug tampilan print di browser? Gunakan fitur emulate print di Chrome DevTools agar bisa inspect layout seperti biasa.
-cover: /assets/images/dev note/inspect-print.webp
+cover: https://cdn.ekopedia.id/images/dev note/inspect-print.webp
 icon: code
 date: 2026-03-28
 star: true

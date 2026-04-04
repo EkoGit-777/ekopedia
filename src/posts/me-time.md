@@ -1,6 +1,6 @@
 ---
 description: My review of Superman movie.
-cover: /assets/images/post/superman-2025.webp
+cover: https://cdn.ekopedia.id/images/post/superman-2025.webp
 layout: DiaryLayout
 icon: book-bookmark
 date: 2025-07-13

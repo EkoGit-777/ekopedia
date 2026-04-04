@@ -1,6 +1,6 @@
 ---
 description: While decoupling an API, a simple question came up -- should this validation throw an exception or return an error response? This article breaks down that decision using real-world reasoning, not theory, and offers a clear guideline that scales with growing systems.
-cover: /assets/images/dev note/exception-response.webp
+cover: https://cdn.ekopedia.id/images/dev note/exception-response.webp
 icon: code
 date: 2026-02-05
 star: true

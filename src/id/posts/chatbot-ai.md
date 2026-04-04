@@ -1,7 +1,7 @@
 ---
 description: Bagaimana Aku Membangun Chatbotku Sendiri (dan Apa yang Aku Pelajari Sepanjang Prosesnya).
 title: Membangun Chatbotku Sendiri
-cover: /assets/images/project/aideekopedia.webp
+cover: https://cdn.ekopedia.id/images/project/aideekopedia.webp
 layout: DiaryLayout
 icon: book-bookmark
 date: 2025-10-07
@@ -24,8 +24,8 @@ Aku sudah pernah bilang ingin membuat chatbot AI sendiri. Tapi alasan sebenarnya
 Sebagai pengembang web, jika Anda membayangkan cara membuat AI Chatbot, sepertinya sangat mudah. ​​Anda hanya perlu 1 halaman untuk mengirimkan perintah ke API, lalu menampilkan responsnya. Salah satu bagian tersulit adalah membuat respons tersebut tampak seperti diketik secara langsung dan juga menampilkannya dalam format yang baik. Rasanya seperti memberi bot sebuah kepribadian — bukan hanya menampilkan teks di layar. Untungnya, pada proyek yang kukerjakan saat bekerja di Gradin, aku telah membuat komponen untuk menampilkan teks berformat markdown. Aku tinggal mengambil komponen tersebut dan menerapkannya pada proyek Chatbot AI milikku, sehingga dapat menampilkan teks yang mudah dibaca.
 
 <ArtPlayer
-  src="assets/videos/chatbot-demo.webm"
-  poster="assets/images/project/aideekopedia.webp"
+  src="https://cdn.ekopedia.id/icons/chatbot-demo.webm"
+  poster="https://cdn.ekopedia.id/images/project/aideekopedia.webp"
 />
 
 ## Kemenangan Kecil

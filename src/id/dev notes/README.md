@@ -1,5 +1,5 @@
 ---
-cover: /assets/images/dev note/dev note.webp
+cover: https://cdn.ekopedia.id/images/dev note/dev note.webp
 title: Catatan Dev
 description: Catatan Dev adalah bagian untuk kumpulan dari catatan perjalanan dalam mempelajari bahasa pemrograman
 icon: code

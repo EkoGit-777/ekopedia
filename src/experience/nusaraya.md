@@ -1,7 +1,7 @@
 ---
 description: My working experience at PT Nusantara Baskara Jaya.
 icon: building
-cover: /assets/images/experience/nusaraya/nusaraya.webp
+cover: https://cdn.ekopedia.id/images/experience/nusaraya/nusaraya.webp
 order: 1
 timeline: false
 article: false

@@ -1,6 +1,6 @@
 ---
 description: Ulasanku tentang film "Agak Laen - Menyala Pantiku", "The SpongeBob Movie - Search for SquarePants" "Avatar - Fire and Ash".
-cover: /assets/images/post/agak-laen-spongebob-avatar.webp
+cover: https://cdn.ekopedia.id/images/post/agak-laen-spongebob-avatar.webp
 layout: DiaryLayout
 icon: book-bookmark
 date: 2025-12-29

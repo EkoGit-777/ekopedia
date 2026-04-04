@@ -1,6 +1,6 @@
 ---
 description: Struggling to debug print layouts? Use Chrome DevTools print emulation to inspect elements and see exactly what happens in print mode.
-cover: /assets/images/dev note/inspect-print.webp
+cover: https://cdn.ekopedia.id/images/dev note/inspect-print.webp
 icon: code
 date: 2026-03-28
 star: true

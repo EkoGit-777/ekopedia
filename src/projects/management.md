@@ -21,10 +21,10 @@ Another project I did in Gradin. Project Management System of Construction Compa
 
 ### Screenshot
 
-![Dashboard](/assets/images/project/management/management-1.webp)
+![Dashboard](https://cdn.ekopedia.id/images/project/management/management-1.webp)
 
-![Project List](/assets/images/project/management/management-2.webp)
+![Project List](https://cdn.ekopedia.id/images/project/management/management-2.webp)
 
-![Project Detail](/assets/images/project/management/management-3.webp)
+![Project Detail](https://cdn.ekopedia.id/images/project/management/management-3.webp)
 
-![Task Detail](/assets/images/project/management/management-4.webp)
+![Task Detail](https://cdn.ekopedia.id/images/project/management/management-4.webp)

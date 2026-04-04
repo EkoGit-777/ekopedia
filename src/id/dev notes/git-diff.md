@@ -1,6 +1,6 @@
 ---
 description: Perjalanan belajar sebagai developer tentang memahami git diff lebih dari sekadar baris merah dan hijau.
-cover: /assets/images/dev note/git-diff.webp
+cover: https://cdn.ekopedia.id/images/dev note/git-diff.webp
 icon: code
 date: 2026-02-15
 star: true

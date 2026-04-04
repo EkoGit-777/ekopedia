@@ -1,6 +1,6 @@
 ---
 description: A developer learning journey about understanding git diff beyond red and green lines.
-cover: /assets/images/dev note/git-diff.webp
+cover: https://cdn.ekopedia.id/images/dev note/git-diff.webp
 icon: code
 date: 2026-02-15
 star: true

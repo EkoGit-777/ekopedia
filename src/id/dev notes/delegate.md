@@ -1,6 +1,6 @@
 ---
 description: The explanation of delegate in Ruby
-cover: /assets/images/dev note/delegation.webp
+cover: https://cdn.ekopedia.id/images/dev note/delegation.webp
 icon: code
 date: 2025-07-07
 star: true

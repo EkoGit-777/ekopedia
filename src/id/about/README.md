@@ -5,7 +5,7 @@ title: Tentang Saya
 description: Perkenalan singkat tentang Eko Sutrisno Adiguna.
 icon: user-tie
 name: Eko Sutrisno Adiguna
-avatar: /assets/images/avatar.png
+avatar: https://cdn.ekopedia.id/images/avatar.png
 titles:
   - Pengembang Full-Stack dengan +8 tahun pengalaman
   - Spesialisasi dalam Laravel & Vue.js

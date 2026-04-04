@@ -28,6 +28,11 @@ export default sidebar({
       icon: "https://aide.ekopedia.id/favicon.ico",
       link: "/projects/aideekopedia",
     },
+    {
+      text: "ExpirEkopedia",
+      icon: "https://expir.ekopedia.id/favicon.ico",
+      link: "/projects/expirekopedia",
+    },
   ],
   '/dev notes/': [
     '',
@@ -74,6 +79,11 @@ export default sidebar({
       text: "AideEkopedia",
       icon: "https://aide.ekopedia.id/favicon.ico",
       link: "/id/projects/aideekopedia",
+    },
+    {
+      text: "ExpirEkopedia",
+      icon: "https://expir.ekopedia.id/favicon.ico",
+      link: "/projects/expirekopedia",
     },
   ],
   '/id/dev notes/': [

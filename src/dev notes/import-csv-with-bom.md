@@ -1,6 +1,6 @@
 ---
 description: I exported data from my own app and tried to re-import it — and it failed. This article explains how a hidden UTF-8 BOM in CSV files caused the issue and how to fix it properly.
-cover: /assets/images/dev note/import-csv.webp
+cover: https://cdn.ekopedia.id/images/dev note/import-csv.webp
 icon: code
 date: 2026-02-03
 star: true

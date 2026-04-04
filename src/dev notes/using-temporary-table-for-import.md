@@ -1,6 +1,6 @@
 ---
 description: Designing the import pipeline and why temporary tables became a more scalable solution than processing data directly in application variables.
-cover: /assets/images/dev note/temporary-table-for-import.webp
+cover: https://cdn.ekopedia.id/images/dev note/temporary-table-for-import.webp
 icon: code
 date: 2026-03-10
 star: true

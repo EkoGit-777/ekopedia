@@ -1,7 +1,7 @@
 ---
 description: Application for splitting bill.
 icon: https://splitbill.ekopedia.id/favicon.ico
-cover: /assets/images/project/dividekopedia.webp
+cover: https://cdn.ekopedia.id/images/project/dividekopedia.webp
 order: 1
 timeline: false
 article: false

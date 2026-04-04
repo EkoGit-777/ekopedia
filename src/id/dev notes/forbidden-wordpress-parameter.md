@@ -1,6 +1,6 @@
 ---
 description: Learn about WordPress reserved query variables and how to safely pass data via URLs without breaking your site.
-cover: /assets/images/dev note/wordpress-404.webp
+cover: https://cdn.ekopedia.id/images/dev note/wordpress-404.webp
 icon: code
 date: 2026-01-30
 star: true

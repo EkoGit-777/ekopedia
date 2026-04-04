@@ -1,6 +1,6 @@
 ---
 description: What DPR really is, why your 1920 screen behaves like 1440, and when web developers should (and should not) care about it.
-cover: /assets/images/dev note/device-pixel-ratio.webp
+cover: https://cdn.ekopedia.id/images/dev note/device-pixel-ratio.webp
 icon: code
 date: 2026-01-23
 star: true

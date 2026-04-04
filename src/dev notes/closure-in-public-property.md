@@ -1,6 +1,6 @@
 ---
 description: Getting an "invalid operation" error when using closures in public properties? The issue isn’t PHP—it’s how the framework handles serialization.
-cover: /assets/images/dev note/closure-in-public-property.webp
+cover: https://cdn.ekopedia.id/images/dev note/closure-in-public-property.webp
 icon: code
 date: 2026-03-24
 star: true

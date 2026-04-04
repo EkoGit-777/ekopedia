@@ -1,6 +1,6 @@
 ---
 description: Merancang pipeline import dan alasan mengapa temporary table menjadi solusi yang lebih scalable dibandingkan memproses data langsung di variabel aplikasi.
-cover: /assets/images/dev note/temporary-table-for-import.webp
+cover: https://cdn.ekopedia.id/images/dev note/temporary-table-for-import.webp
 icon: code
 date: 2026-03-10
 star: true

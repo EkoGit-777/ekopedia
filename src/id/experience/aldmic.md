@@ -1,7 +1,7 @@
 ---
 description: Pengalaman kerjaku di Aldmic Indonesia.
 icon: building
-cover: /assets/images/experience/aldmic/aldmic.webp
+cover: https://cdn.ekopedia.id/images/experience/aldmic/aldmic.webp
 order: 3
 timeline: false
 article: false

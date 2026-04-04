@@ -12,18 +12,18 @@ works:
   - name: Lightweight ERP For Retail
     desc: A lightweight ERP for retail with many branches in Surabaya
     url: /projects/erp.html
-    preview: /assets/images/project/erp/erp-1.webp
+    preview: https://cdn.ekopedia.id/images/project/erp/erp-1.webp
 
   - name: Project Management System
     desc: Project Management System of Construction Company
     url: /projects/management.html
-    preview: /assets/images/project/management/management-1.webp
+    preview: https://cdn.ekopedia.id/images/project/management/management-1.webp
 
 freelances:
   - name: Finance System
     desc: A finance system for a college in Lumajang
     url: /projects/finance.html
-    preview: /assets/images/project/finance/finance-1.webp
+    preview: https://cdn.ekopedia.id/images/project/finance/finance-1.webp
 
 personals:
   - name: DividEkopedia
@@ -31,18 +31,23 @@ personals:
     url: /projects/dividekopedia
     logo: https://splitbill.ekopedia.id/favicon.ico
     repo: https://github.com/EkoGit-777/dividekopedia
-    preview: /assets/images/project/dividekopedia.webp
+    preview: https://cdn.ekopedia.id/images/project/dividekopedia.webp
   - name: MoviEkopedia
     desc: A movie catalouge
     url: /projects/moviekopedia
     logo: https://movi.ekopedia.id/favicon.ico
     repo: https://github.com/EkoGit-777/moviekopedia
-    preview: /assets/images/project/moviekopedia.webp
+    preview: https://cdn.ekopedia.id/images/project/moviekopedia.webp
   - name: AideEkopedia
     desc: AI Chatbot
     url: /projects/aideekopedia
     logo: https://aide.ekopedia.id/favicon.ico
-    preview: /assets/images/project/aideekopedia.webp
+    preview: https://cdn.ekopedia.id/images/project/aideekopedia.webp
+  - name: ExpirEkopedia
+    desc: Expiration Date Tracker
+    url: /projects/expirekopedia
+    logo: https://expir.ekopedia.id/favicon.ico
+    preview: https://cdn.ekopedia.id/images/project/expirekopedia.webp
 
 ---
 

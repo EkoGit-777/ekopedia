@@ -5,7 +5,7 @@ title: About Me
 description: Short introduction about Eko Sutrisno Adiguna.
 icon: user-tie
 name: Eko Sutrisno Adiguna
-avatar: /assets/images/avatar.png
+avatar: https://cdn.ekopedia.id/images/avatar.png
 titles:
   - Full-Stack Developer With +8 years of experiences
   - Specializing in Laravel & Vue.js

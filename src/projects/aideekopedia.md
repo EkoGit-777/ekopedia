@@ -1,7 +1,7 @@
 ---
 description: AI-powered chat application.
 icon: https://aide.ekopedia.id/favicon.ico
-cover: /assets/images/project/aideekopedia.webp
+cover: https://cdn.ekopedia.id/images/project/aideekopedia.webp
 order: 1
 timeline: false
 article: false
