@@ -51,6 +51,7 @@ export default sidebar({
     'using-temporary-table-for-import',
     'closure-in-public-property',
     'inspect-print',
+    'basic-mistake-in-legacy-project',
   ],
   
   // id sidebar
@@ -103,5 +104,6 @@ export default sidebar({
     'using-temporary-table-for-import',
     'closure-in-public-property',
     'inspect-print',
+    'basic-mistake-in-legacy-project',
   ],
 });
