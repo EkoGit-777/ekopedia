@@ -8,7 +8,6 @@ category:
 - Diary
 tag:
 - Career
-sticky: true
 ---
 
 # Bekerja Dari Kantor Lagi! :briefcase:

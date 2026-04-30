@@ -24,6 +24,7 @@ So I expected it to work without issues.
 ## The Confusing Part
 But instead, I got this error:
 > errno: 150 "Foreign key constraint is incorrectly formed"
+
 Which didn’t help much.
 
 ---

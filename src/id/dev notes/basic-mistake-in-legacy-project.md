@@ -24,6 +24,7 @@ Harusnya berjalan tanpa kendala.
 ## Bagian yang Membingungkan
 Tapi yang muncul justru error:
 > errno: 150 "Foreign key constraint is incorrectly formed"
+
 Tidak terlalu membantu.
 
 ---
