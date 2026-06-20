@@ -4,34 +4,34 @@ export default sidebar({
   // en sidebar
   '/experience/': [
     '',
-    'nusaraya',
-    'gradin',
-    'aldmic',
+    '/experience/nusaraya/',
+    '/experience/gradin/',
+    '/experience/aldmic/',
   ],
   '/projects/': [
     '',
-    'erp',
-    'management',
-    'finance',
+    '/projects/erp/',
+    '/projects/management/',
+    '/projects/finance/',
     {
       text: "DividEkopedia",
       icon: "https://splitbill.ekopedia.id/favicon.ico",
-      link: "/projects/dividekopedia",
+      link: "/projects/dividekopedia/",
     },
     {
       text: "MoviEkopedia",
       icon: "https://movi.ekopedia.id/favicon.ico",
-      link: "/projects/moviekopedia",
+      link: "/projects/moviekopedia/",
     },
     {
       text: "AideEkopedia",
       icon: "https://aide.ekopedia.id/favicon.ico",
-      link: "/projects/aideekopedia",
+      link: "/projects/aideekopedia/",
     },
     {
       text: "ExpirEkopedia",
       icon: "https://expir.ekopedia.id/favicon.ico",
-      link: "/projects/expirekopedia",
+      link: "/projects/expirekopedia/",
     },
   ],
   '/dev notes/': [
@@ -57,34 +57,34 @@ export default sidebar({
   // id sidebar
   '/id/experience/': [
     '',
-    'nusaraya',
-    'gradin',
-    'aldmic',
+    '/id/experience/nusaraya/',
+    '/id/experience/gradin/',
+    '/id/experience/aldmic/',
   ],
   '/id/projects/': [
     '',
-    'erp',
-    'management',
-    'finance',
+    '/id/projects/erp/',
+    '/id/projects/management/',
+    '/id/projects/finance/',
     {
       text: "DividEkopedia",
       icon: "https://splitbill.ekopedia.id/favicon.ico",
-      link: "/id/projects/dividekopedia",
+      link: "/id/projects/dividekopedia/",
     },
     {
       text: "MoviEkopedia",
       icon: "https://movi.ekopedia.id/favicon.ico",
-      link: "/id/projects/moviekopedia",
+      link: "/id/projects/moviekopedia/",
     },
     {
       text: "AideEkopedia",
       icon: "https://aide.ekopedia.id/favicon.ico",
-      link: "/id/projects/aideekopedia",
+      link: "/id/projects/aideekopedia/",
     },
     {
       text: "ExpirEkopedia",
       icon: "https://expir.ekopedia.id/favicon.ico",
-      link: "/projects/expirekopedia",
+      link: "/id/projects/expirekopedia/",
     },
   ],
   '/id/dev notes/': [

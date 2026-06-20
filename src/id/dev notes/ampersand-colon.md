@@ -1,6 +1,6 @@
 ---
-title:  How to use ampersand-colon in Ruby?
-description: The usage guide of &:method in Ruby.
+title:  Bagaimana cara menggunakan ampersand-colon dalam Ruby?
+description: Petunjuk penggunaan dari &:method dalam Ruby.
 icon: code
 date: 2025-07-25
 star: true

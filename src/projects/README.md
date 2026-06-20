@@ -11,42 +11,44 @@ category:
 works:
   - name: Lightweight ERP For Retail
     desc: A lightweight ERP for retail with many branches in Surabaya
-    url: /projects/erp.html
+    url: /projects/erp/
     preview: https://cdn.ekopedia.id/images/project/erp/erp-1.webp
 
   - name: Project Management System
     desc: Project Management System of Construction Company
-    url: /projects/management.html
+    url: /projects/management/
     preview: https://cdn.ekopedia.id/images/project/management/management-1.webp
 
 freelances:
   - name: Finance System
     desc: A finance system for a college in Lumajang
-    url: /projects/finance.html
+    url: /projects/finance/
     preview: https://cdn.ekopedia.id/images/project/finance/finance-1.webp
 
 personals:
   - name: DividEkopedia
     desc: A splitbill web-app
-    url: /projects/dividekopedia
+    url: /projects/dividekopedia/
     logo: https://splitbill.ekopedia.id/favicon.ico
     repo: https://github.com/EkoGit-777/dividekopedia
     preview: https://cdn.ekopedia.id/images/project/dividekopedia.webp
   - name: MoviEkopedia
     desc: A movie catalouge
-    url: /projects/moviekopedia
+    url: /projects/moviekopedia/
     logo: https://movi.ekopedia.id/favicon.ico
     repo: https://github.com/EkoGit-777/moviekopedia
     preview: https://cdn.ekopedia.id/images/project/moviekopedia.webp
   - name: AideEkopedia
     desc: AI Chatbot
-    url: /projects/aideekopedia
+    url: /projects/aideekopedia/
     logo: https://aide.ekopedia.id/favicon.ico
+    repo: https://github.com/EkoGit-777/aideekopedia
     preview: https://cdn.ekopedia.id/images/project/aideekopedia.webp
   - name: ExpirEkopedia
     desc: Expiration Date Tracker
-    url: /projects/expirekopedia
+    url: /projects/expirekopedia/
     logo: https://expir.ekopedia.id/favicon.ico
+    repo: https://github.com/EkoGit-777/expirekopedia
     preview: https://cdn.ekopedia.id/images/project/expirekopedia.webp
 
 ---

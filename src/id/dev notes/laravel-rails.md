@@ -1,5 +1,6 @@
 ---
-description: Mental map guide for Laravel developer who starts to learn Ruby on Rails.
+title: Laravel ↔ Rails Mental Map untuk para Developer
+description: Petunjuk mental map untuk developer Laravel yang mulai belajar Ruby on Rails.
 cover: https://cdn.ekopedia.id/images/dev note/laravel-rails.webp
 icon: code
 date: 2025-07-03
@@ -10,8 +11,6 @@ tag:
 - Laravel
 - Rails
 ---
-
-# Laravel ↔ Rails Mental Map for Developers
 
 Jika kamu seorang pengembang Laravel yang mulai bekerja dengan Ruby on Rails, panduan ini memberi kamu referensi berdampingan untuk menjembatani kesenjangan dengan cepat — terutama di sekitar pabrik, hubungan, migrasi, dan pengujian.
 
