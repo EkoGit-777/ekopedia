@@ -52,6 +52,10 @@ export default sidebar({
     'closure-in-public-property',
     'inspect-print',
     'basic-mistake-in-legacy-project',
+    'url-structure-breaks-google-indexing',
+    'different-behaviour-between-vw-and-percent',
+    'bitwise-and-vs-logical-and-in-php',
+    'working-on-legacy-code',
   ],
   
   // id sidebar
@@ -105,5 +109,9 @@ export default sidebar({
     'closure-in-public-property',
     'inspect-print',
     'basic-mistake-in-legacy-project',
+    'url-structure-breaks-google-indexing',
+    'different-behaviour-between-vw-and-percent',
+    'bitwise-and-vs-logical-and-in-php',
+    'working-on-legacy-code',
   ],
 });
