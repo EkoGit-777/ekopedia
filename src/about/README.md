@@ -6,6 +6,8 @@ description: Short introduction about Eko Sutrisno Adiguna.
 icon: user-tie
 name: Eko Sutrisno Adiguna
 avatar: https://cdn.ekopedia.id/images/avatar.png
+bgImage: https://cdn.ekopedia.id/images/about-bg.webp
+bgImageDark: https://cdn.ekopedia.id/images/about-bg-dark.webp
 titles:
   - Full-Stack Developer With +8 years of experiences
   - Specializing in Laravel & Vue.js
@@ -13,4 +15,5 @@ titles:
   - Reading, watching movie, and playing game are my hobbies
 content: none
 footer: false
+containerClass: about-page
 ---

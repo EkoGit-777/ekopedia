@@ -86,6 +86,22 @@ export default hopeTheme({
         icon: "https://images.unidays.world/i/self-serve/customer/bciPW26eUUKqoORnZ_kQ8Fh0sK8Co6pIqFZmtuMUoL4=/logo/png/3f00fd25-8af9-43d9-b6ce-bb9265f7a8ff?w=640&format=webp",
         link: "https://www.superprof.co.id/programmer-mengajarkan-pemrograman-dasar-untuk-web-dan-desktop-untuk-siswa-smp-hingga-mahasiswa-dan-sederajat-surabaya-dan.html",
       },
+      DividEkopedia: {
+        icon: 'https://splitbill.ekopedia.id/favicon.ico',
+        link: 'https://splitbill.ekopedia.id',
+      },
+      MoviEkopedia: {
+        icon: 'https://movi.ekopedia.id/favicon.ico',
+        link: 'https://movi.ekopedia.id',
+      },
+      AideEkopedia: {
+        icon: 'https://aide.ekopedia.id/favicon.ico',
+        link: 'https://aide.ekopedia.id',
+      },
+      Expirkopedia: {
+        icon: 'https://expir.ekopedia.id/favicon.ico',
+        link: 'https://expir.ekopedia.id',
+      },
     },
   },
 

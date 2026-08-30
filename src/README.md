@@ -7,9 +7,10 @@ description: Ekopedia is the personal site of a senior Laravel & Vue.js develope
 heroImage: /logo.webp
 heroAlt: Ekopedia logo
 heroText: Ekopedia
-tagline: Your Ideas, My Code, Infinite Possibilities
-bgImage: https://cdn.ekopedia.id/images/hero-bg.webp
-bgImageDark: https://cdn.ekopedia.id/images/hero-bg-dark.webp
+tagline: Your Ideas, My Expertise, Limitless Possibilities
+bgImage: https://cdn.ekopedia.id/images/home-bg.webp
+bgImageDark: https://cdn.ekopedia.id/images/home-bg-dark.webp
+bgImageStyle: "background-position: top center; background-repeat: no-repeat; background-size: cover;"
 heroFullScreen: true
 projects:
   - icon: https://splitbill.ekopedia.id/favicon.ico

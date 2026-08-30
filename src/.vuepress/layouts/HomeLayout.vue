@@ -10,25 +10,30 @@ const languageStore = useLanguageStore()
     <template #heroInfo="heroInfo">
       <h1
         class="vp-blog-hero-title"
-        style="color: #d19e00;transition:  transform 0.25s ease-in-out 0.08s, opacity 0.25s ease-in-out 0.08s; transform: translateY(0px); opacity: 1;">
+        :class="{'dark': $isDarkMode}">
         {{ heroInfo.text }}
       </h1>
       <div
         class="vp-blog-hero-description"
-        style="padding: 0 12px;text-align: center; transform 0.25s ease-in-out 0.12s, opacity 0.25s ease-in-out 0.12s; transform: translateY(0px); opacity: 1;">
+        :class="{'dark': $isDarkMode}">
         {{ heroInfo.tagline }}
       </div>
       <div class="button-container">
         <a
           class="route-link auto-link vp-hero-action primary no-external-link-icon"
+          :class="{'dark': $isDarkMode}"
           href="/about/"
           aria-label="About Me">
-          <VPIcon icon="user-tie" color="black" />
+          <VPIcon icon="user-tie" />
           {{languageStore.getViewText('layout', 'about')}}
         </a>
-        <a class="route-link auto-link vp-hero-action secondary no-external-link-icon" href="https://cdn.ekopedia.id/documents/cv.pdf" download="cv-eko-sutrisno-adiguna.pdf" aria-label="My Resume">
-          <VPIcon icon="file-pdf" color="white" />
-          {{languageStore.getViewText('layout', 'resume')}}
+        <a
+          class="route-link auto-link vp-hero-action secondary no-external-link-icon"
+          :class="{'dark': $isDarkMode}"
+          href="/projects/#my-personal-project"
+          aria-label="My Projects">
+          <VPIcon icon="briefcase" />
+          {{languageStore.getViewText('layout', 'myprojects')}}
         </a>
       </div>
     </template>
@@ -86,6 +91,32 @@ h2 {
   margin-bottom: 0;
 }
 
+.vp-blog-hero-title {
+  color: #FFD700;
+  -webkit-text-stroke: 1px #191970;
+  transition:  transform 0.25s ease-in-out 0.08s, opacity 0.25s ease-in-out 0.08s;
+  transform: translateY(0px);
+  opacity: 1;
+}
+
+.vp-blog-hero-title.dark {
+  color: #D99B26;
+  -webkit-text-stroke: 1px #0A2540;
+}
+
+.vp-blog-hero-description {
+  padding: 0 12px;
+  text-shadow: 1px 1px #FFD700;
+  text-align: center;
+  transform: 0.25s ease-in-out 0.12s, opacity 0.25s ease-in-out 0.12s;
+  transform: translateY(0px);
+  opacity: 1;
+}
+
+.vp-blog-hero-description {
+  text-shadow: 1px 1px #D99B26;
+}
+
 .feature-wrapper {
   text-align: center;
   width: 100%;
@@ -102,13 +133,23 @@ h2 {
 }
 
 .vp-hero-action.primary {
+  color: #191970;
+}
+
+.vp-hero-action.primary.dark {
   color: black;
+  background: #D99B26;
 }
 
 .vp-hero-action.secondary {
   border-color: #191970;
   background: #191970;
   color: white;
+}
+
+.vp-hero-action.secondary.dark {
+  border-color: #0A2540;
+  background: #0A2540;
 }
 
 .button-container {

@@ -6,6 +6,8 @@ description: Perkenalan singkat tentang Eko Sutrisno Adiguna.
 icon: user-tie
 name: Eko Sutrisno Adiguna
 avatar: https://cdn.ekopedia.id/images/avatar.png
+bgImage: https://cdn.ekopedia.id/images/about-bg.webp
+bgImageDark: https://cdn.ekopedia.id/images/about-bg-dark.webp
 titles:
   - Pengembang Full-Stack dengan +8 tahun pengalaman
   - Spesialisasi dalam Laravel & Vue.js
@@ -13,4 +15,5 @@ titles:
   - Baca buku, nonton film, dan main game adalah hobiku
 content: none
 footer: false
+containerClass: about-page
 ---

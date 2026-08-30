@@ -13,6 +13,7 @@ export const useLanguageStore = defineStore('Language', {
       'layout': {
         'about': 'About Me',
         'resume': 'My Resume',
+        'myprojects': 'My Projects',
         'offer': 'What I Offer',
         'offer1title': 'Web Development',
         'offer1short': 'Custom websites and full-stack solutions tailored to your business needs',
@@ -30,6 +31,7 @@ export const useLanguageStore = defineStore('Language', {
       'layout': {
         'about': 'Tentang Saya',
         'resume': 'Resume Saya',
+        'myprojects': 'Proyek Saya',
         'offer': 'Apa yang Saya Tawarkan',
         'offer1title': 'Pengembangan Web',
         'offer1short': 'Situs web dan solusi dengan teknologi yang disesuaikan dengan kebutuhan bisnis Anda',
