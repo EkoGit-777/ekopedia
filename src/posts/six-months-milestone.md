@@ -8,7 +8,6 @@ category:
 - Diary
 tag:
 - Career
-sticky: true
 ---
 
 # :star2: Six Months, First Client, and a Hard Lesson
